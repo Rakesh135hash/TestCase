@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Order>
+  <Customer>
+    <ID>12345</ID>
+    <Name>John Doe</Name>
+    <SalesRep>Jane Smith</SalesRep>
+    <SalesRepEmail>jane.smith@example.com</SalesRepEmail>
+    <Phone>+91-800-123-4567</Phone>
+    <TotalDiscount>8.0</TotalDiscount>
+  </Customer>
+  <Items>
+    <Item>
+      <ItemID>98765</ItemID>
+      <Description>Wireless Mouse</Description>
+      <Quantity>5</Quantity>
+      <Rate>20</Rate>
+      <Amount>50</Amount>
+      <Discount>12.0</Discount>
+    </Item>
+  </Items>
+</Order>
